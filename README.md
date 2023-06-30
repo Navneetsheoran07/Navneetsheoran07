@@ -1,4 +1,9 @@
 ### Hi I am Navneet Sheoran 👋
+
+Contact me 📧Email[navi.Choudhury.dev.gmail.com],
+
+GitHub[https://github.com/Navneetsheoran07],
+LinkedIn[https://www.linkedin.com/in/navneet-sheoran-b27957233/],
 Welcome to our GitHub profile! We are a team of highly skilled and passionate developers specializing in Android and Flutter app development. With a combined experience of several years, we have successfully delivered numerous projects, creating cutting-edge, user-centric, and feature-rich applications for various industries. Our deep expertise in both Android and Flutter ecosystems allows us to deliver seamless and high-performing apps that cater to diverse client needs.
 
 Key Highlights:
@@ -38,5 +43,4 @@ We treat client data and project details with utmost confidentiality and impleme
 Let's Collaborate:
 If you have an exciting Android or Flutter app idea or need assistance with ongoing projects, we are more than ready to collaborate with you. Feel free to reach out to us for any inquiries or partnership opportunities. Let's build innovative and impactful mobile applications together!
 
-Contact me :  navi.Choudhury.dev.gmail.com,
-https://github.com/Navneetsheoran07
+
