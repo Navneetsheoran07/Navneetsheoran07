@@ -52,7 +52,7 @@
 ---
 
 <div>
-            <a href="https://www.buymeacoffee.com/flutterdartcode" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/navneetshep" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -104,7 +104,7 @@
 
 
 ### Glad to see you here!  
-Welcome to our GitHub profile! We are a team of highly skilled and passionate developers specializing in Android and Flutter app development. With a combined experience of several years, we have successfully delivered numerous projects, creating cutting-edge, user-centric, and feature-rich applications for various industries. Our deep expertise in both Android and Flutter ecosystems allows us to deliver seamless and high-performing apps that cater to diverse client needs.
+Welcome to our GitHub profile!  highly skilled and passionate developers specializing in Android and Flutter app development. With a combined experience of several years, i have successfully delivered numerous projects, creating cutting-edge, user-centric, and feature-rich applications for various industries. Our deep expertise in both Android and Flutter ecosystems allows us to deliver seamless and high-performing apps that cater to diverse client needs.
 
 Key Highlights:
 
