@@ -1,7 +1,7 @@
 
 # 💻 Tech Stack:
 
-
+## [View Resume](./resume.md)
 
 ### Frontend  
 
