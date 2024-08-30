@@ -37,7 +37,7 @@ mobile application focused on enhancing fire safety awareness and emergency resp
  media
 
 ## Achievements
-**Golden goose of ThinkNext**
+- **Golden goose of ThinkNext**
 Thinknext technology private limited
  Aug-2024
  - **TokenOfHonerforAcademicGuidance**
