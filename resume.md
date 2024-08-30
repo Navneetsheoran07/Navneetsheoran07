@@ -19,19 +19,6 @@
 
 ## Experience
 
-### Mobile Application 
-#### Excellence Technology 
-##### March 2022-Sep 2022
- Designed user interfaces that engaged multiple senses and produced immersive experiences.
- Designed documentation for each app, detailing operation aspects, functions, capabilities and features.
- Managed aspects of Android app lifecycle from research and planning through deployment and post launch support.
- Employed third party APIs to facilitate seamless access to external, in app cloud data.
-
-### Android Developer (Remote)
-#### Aug 2021 - feb 2022
-- Super Dot: Developed application using Flutter and Node.js, integrating Razorpay for payments. Achieved a 30% boost in user engagement and 20% faster checkouts, resulting in a 20% increase in revenue.
-- Inventory App: Crafted an inventory app with Flutter for Tulip Creation Pvt. Ltd., resulting in a 15% reduction in stock discrepancies and saving 2 hours weekly on manual data entry.
-
 ###  Mobile Application Developer
 ##### ThinkNEXT Technologies Private Limited
 ###### May 2022-Present
@@ -45,15 +32,22 @@
 mobile application focused on enhancing fire safety awareness and emergency response.
 
 - **unique_Idea**: Loan|insurance: Built a Flutter application  .
-
+- **All in One Status Saver App**
+ Created an application to save statuses from various social
+ media
 
 ## Achievements
-- Smart Player
+**Golden goose of ThinkNext**
 Thinknext technology private limited
-17 September 2023
-- ultimate contributor
-Thinknext technology private limited
-18 September 2022
-- TokenOfHonerforAcademicGuidance
+ Aug-2024
+ - **TokenOfHonerforAcademicGuidance**
 Akal University Talwandi Sabo
-07 November 2023
+ November 2023
+- **Smart Player**
+Thinknext technology private limited
+ September 2023
+
+- **ultimate contributor**
+Thinknext technology private limited
+ September 2022
+
