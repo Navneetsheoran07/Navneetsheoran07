@@ -60,14 +60,6 @@
 
 ---
 
-## 📝 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Modern Android App](https://docs.flutter.dev/get-started/fundamentals/state-management)
-- [Flutter State Management Explained](#)
-- [Kotlin Coroutines Deep Dive](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 **Let's Connect**
 <p align="center"> 
