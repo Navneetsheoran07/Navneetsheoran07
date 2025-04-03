@@ -1,163 +1,95 @@
-
-# 💻 Tech Stack:
-
-## [View Resume](./resume.md)
-
-### Frontend  
-
 <div align="center">
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&height=50&lines=console.log(%22Hello%2C+World!%22);Navneet+Sheoran+Here👋;Android+%7C+Flutter+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  
+  ![Android Developer](https://img.shields.io/badge/-Android%20Developer-3DDC84?style=flat&logo=android&logoColor=white)
+  ![Flutter Developer](https://img.shields.io/badge/-Flutter%20Developer-02569B?style=flat&logo=flutter&logoColor=white)
+  ![Open Source](https://img.shields.io/badge/-Open%20Source-181717?style=flat&logo=github&logoColor=white)
+  
+  <img src="https://komarev.com/ghpvc/?username=Navneetsheoran07&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-    
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?usernameNavneetsheoran07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Navneetsheoran07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetsheoran07 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Navneetsheoran07 &theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-<div>
-            <a href="https://www.buymeacoffee.com/navneetshep" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>  <br/>
+## 📱 **Mobile Development**
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"> 
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Navneetsheoran07&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠 **Tools & Platforms**
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"> 
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ☁️ **DevOps & Cloud**
+<p align="center"> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"> 
+</p>
 
+---
 
-
-
-
-
-
-
-
-
-<div align="center">
-<img src="https://Navneetsheoran07.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-<br/>
-<br/>
-
-## Hey 👋, I'm Navneet Sheoran!  
-  
-
-<a href="https://github.com/Navneetsheoran07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/navneetsheoran" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/navneet-sheoran/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Sheoran_sahaab" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/navneetsheoran" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-
-  
-
-
-
-### Glad to see you here!  
-Welcome to our GitHub profile!  highly skilled and passionate developers specializing in Android and Flutter app development. With a combined experience of several years, i have successfully delivered numerous projects, creating cutting-edge, user-centric, and feature-rich applications for various industries. Our deep expertise in both Android and Flutter ecosystems allows us to deliver seamless and high-performing apps that cater to diverse client needs.
-
-Key Highlights:
-
-Android Development Expertise:
-Our Android developers possess an in-depth understanding of the Android platform, including the latest versions and best practices. We have developed a wide range of applications, from simple utility apps to complex enterprise-level solutions. Our proficiency in Java, Kotlin, and Android Studio empowers us to build robust, scalable, and visually appealing Android applications.
-
-Flutter Prowess:
-Flutter has become our forte, and we have honed our skills to harness the full potential of this revolutionary cross-platform framework. Our Flutter developers excel in creating apps with a native-like experience for both Android and iOS platforms. Leveraging the power of Dart, we ensure optimal performance, responsive UI, and rapid development cycles.
-
-
-
-<br/>  
-
-
-
-
-<br/>  
-
-
-
-
-
-
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+## 📊 **GitHub Analytics**
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navneetsheoran07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetsheoran07&layout=compact&langs_count=8&theme=radical&hide_border=true"/> 
 </div>
 
-</td></tr></table>  
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneetsheoran07&theme=radical&hide_border=true" alt="GitHub Streak"/> 
+</div>
 
-<br/>  
+---
 
+## 🚀 **Featured Projects**
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+| Project | Description | Tech Stack 
+|---------|-------------|------------
+| **Project One** | Modern Android app with Jetpack components | Kotlin, MVVM 
+| **Project Two** | Cross-platform Flutter application | Flutter, BLoC 
+| **Project Three** | Open source contribution | Java, Android SDK 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Navneetsheoran07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+## 📝 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Modern Android App](#)
+- [Flutter State Management Explained](#)
+- [Kotlin Coroutines Deep Dive](#)
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navneetsheoran07&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+## 🤝 **Let's Connect**
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/navneet-sheoran/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a> 
+ 
+  <a href="https://dev.to/navneetsheoran" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge">
+  </a> 
+  <a href="https://gitlab.com/navneetsheoran" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white&style=for-the-badge">
+  </a> 
+  <a href="https://instagram.com/Sheoran_sahaab" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
+  </a> 
+</p>
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Navneetsheoran&&style=flat-square)  
-
-<br />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Navneetsheoran07/count.svg" alt="Visitor Count" />
+  
+  <a href="https://www.buymeacoffee.com/navneetshep" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
+  </a>
+</div>
